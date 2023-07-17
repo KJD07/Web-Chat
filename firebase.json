@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "webchat-03",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
